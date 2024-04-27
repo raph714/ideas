@@ -12,18 +12,21 @@ Take enough time getting to know the people you need to work with. Not only is i
 
 These three steps run in a loop until none of them produce any new information. Deciding what is relevant and what is too much detail is a challenge here, but because any of the steps identified to reach the goal using this method can themselves be broken down with this method, it would be possible to represent any amount of detail by nesting the process.
 
-## 🌎 1. What is the current state?
+## 🌎  1. What is the current state?
 
 - Who are the people involved?
 - What time & resource constraints are there?
+- Do the current and goal states match? (Yay, no more work needed!)
 
-## 🪐 2. What is the goal state?
+## 🪐  2. What is the goal state?
 
-- What is the future functionality?
-- Who are the people involved?
+- What needs to be added?
+- What needs to be removed?
+- Does the current state list enough information to understand the goal?
 
-## 🛸 3. What changes are needed to get there?
+## 🛸  3. What changes are needed to get there?
 
-- What is missing between the current and goal states?
-- What is extra between the current and goal states?
+- What is missing or extra between the current and goal states?
+- What is missing or extra in any of these steps?
 - In what order to the tasks associated with this change need to happen?
+- What needs to be researched?
