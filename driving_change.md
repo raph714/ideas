@@ -17,7 +17,7 @@ These three steps run in a loop until none of them produce any new information. 
 - Who are the people involved?
 - What time & resource constraints are there?
 - Does the current state list enough information to understand the goal?
-- Do the current and goal states match? (Yay, no more work needed!)
+- Is the current state equal to the goal? (Yay, no more work needed!)
 
 ## 🪐  2. What is the goal state?
 
