@@ -1,10 +1,10 @@
-## 🚘 Driving Change
+### 🚘 Driving Change
 
 This is a brief overview of a model for breaking down tasks into achievable steps and collecting the knowledge and resources necessary to accomplish them.
 
 These three steps run in a loop until none of them produce any new information. Deciding what is relevant and what is too much detail is a challenge here, but because any of the steps identified to reach the goal using this method can themselves be broken with this method, it would be possible to represent any amount of detail by nesting the process inside itself.
 
-# 🌎 What is the current state?
+## 🌎 What is the current state?
 
 - What is the product requirement
 - What is the environment?
@@ -13,17 +13,17 @@ These three steps run in a loop until none of them produce any new information. 
     Also remember that there is other ongoing work, remember to ask the stakeholders about other work happening in the same area.
 - What resources do we have to spend on this project?
 
-# 🪐 What is the goal state?
+## 🪐 What is the goal state?
 
 - After taking the product & stakeholder requirements and resource constraints into account, how should the product behave at the end of this project?
 
-# 🛸 What are the changes needed to get from the current state to the goal state?
+## 🛸 What changes are needed to get there?
 
 - What is missing between the current and goal states?
 - What is extra between the current and goal states?
 - In what order to the tasks associated with this change need to happen?
 
-# 👍 Rules of thumb
+## 👍 Rules of thumb
 
 - If there are more than two people, teams, or topics that need to be aligned, a meeting is needed.
 - Only have one topic per meeting.
