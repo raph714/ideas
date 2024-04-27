@@ -21,8 +21,7 @@ These three steps run in a loop until none of them produce any new information. 
 
 ## 🪐  2. What is the goal state?
 
-- What needs to be added or removed?
-- By when?
+- Who, what, where, when? Describe state, not the transition.
 
 ## 🛸  3. What changes are needed to get there?
 
