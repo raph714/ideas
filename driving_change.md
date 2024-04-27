@@ -16,13 +16,13 @@ These three steps run in a loop until none of them produce any new information. 
 
 - Who are the people involved?
 - What time & resource constraints are there?
+- Does the current state list enough information to understand the goal?
 - Do the current and goal states match? (Yay, no more work needed!)
 
 ## 🪐  2. What is the goal state?
 
-- What needs to be added?
-- What needs to be removed?
-- Does the current state list enough information to understand the goal?
+- What needs to be added or removed?
+- By when?
 
 ## 🛸  3. What changes are needed to get there?
 
