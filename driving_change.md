@@ -2,7 +2,7 @@
 
 This is a brief overview of a model for breaking down tasks into achievable steps and collecting the knowledge and resources necessary to accomplish them.
 
-#### 👍 Additional Rules of thumb
+#### 👍 Rules of thumb
 
 - If there are more than two people, teams, or topics that need to be aligned, a meeting is needed.
 - Only have one topic per meeting.
