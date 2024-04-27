@@ -2,28 +2,25 @@
 
 This is a brief overview of a model for breaking down tasks into achievable steps and collecting the knowledge and resources necessary to accomplish them.
 
-These three steps run in a loop until none of them produce any new information. Deciding what is relevant and what is too much detail is a challenge here, but because any of the steps identified to reach the goal using this method can themselves be broken with this method, it would be possible to represent any amount of detail by nesting the process inside itself.
+These three steps run in a loop until none of them produce any new information. Deciding what is relevant and what is too much detail is a challenge here, but because any of the steps identified to reach the goal using this method can themselves be broken down with this method, it would be possible to represent any amount of detail by nesting the process.
 
-## 🌎 What is the current state?
+## 🌎 1. What is the current state?
 
-- What is the product requirement
-- What is the environment?
-- Who are the stakeholders, and what are their requirements in relation to the project?
-    All stakeholders need to sign off on the plan before it can be considered ready. More things will be discovered later, and this process will need to happen in miniature every time they do, but if the big pieces are laid out well and don't need to change, new information can gracefully be integrated with the development process.
-    Also remember that there is other ongoing work, remember to ask the stakeholders about other work happening in the same area.
-- What resources do we have to spend on this project?
+- Who are the people involved?
+- What time & resource constraints are there?
 
-## 🪐 What is the goal state?
+## 🪐 2. What is the goal state?
 
-- After taking the product & stakeholder requirements and resource constraints into account, how should the product behave at the end of this project?
+- What is the future functionality?
+- Who are the people involved?
 
-## 🛸 What changes are needed to get there?
+## 🛸 3. What changes are needed to get there?
 
 - What is missing between the current and goal states?
 - What is extra between the current and goal states?
 - In what order to the tasks associated with this change need to happen?
 
-## 👍 Rules of thumb
+## 👍 Additional Rules of thumb
 
 - If there are more than two people, teams, or topics that need to be aligned, a meeting is needed.
 - Only have one topic per meeting.
